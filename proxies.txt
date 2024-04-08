@@ -1,9 +1,9 @@
-23.162.136.169
+workers.cloudflare.cyou
+216.146.25.209
+62.3.12.185
+45.142.115.59
+23.90.144.167
 47.254.66.75
-proxyip.fxxk.dedyn.io
-cdn.xn--b6gac.eu.org
 cdn-all.xn--b6gac.eu.org
-cdn-b100.xn--b6gac.eu.org
-cdn.anycast.eu.org
-proxyip.multacom.fxxk.dedyn.io
-proxyip.vultr.fxxk.dedyn.io
+ircpipproxy.duckdns.org
+cdn.xn--b6gac.eu.org
