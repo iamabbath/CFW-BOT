@@ -5,14 +5,19 @@ let mytoken= 'username';//快速订阅访问入口, 留空则不启动快速订�
 
 // 设置优选地址，不带端口号默认443，不支持非TLS订阅生成
 let addresses = [
-	"go.inmobi.com#CFW-BOT",
-	"creativecommons.org#2ri4eUI",
-	"go.inmobi.com:8443#CFW-BOT",
-	"creativecommons.org:8443#2ri4eUI",
-	"go.inmobi.com:2087#CFW-BOT",
-	"creativecommons.org:2087#2ri4eUI",
-	"go.inmobi.com:2096#CFW-BOT",
-	"creativecommons.org:2096#2ri4eUI",
+	"discord.com:443# DIS",
+	"www.visa.com.sg:2087#1",
+	"zula.ir:2087#2",
+	"www.visa.com.sg:2096#3",
+	"zula.ir:2096#4",
+	"go.inmobi.com#5",
+	"creativecommons.org#6",
+	"go.inmobi.com:8443#7",
+	"creativecommons.org:8443#8",
+	"go.inmobi.com:2087#9",
+	"creativecommons.org:2087#10",
+	"go.inmobi.com:2096#11",
+	"creativecommons.org:2096#12",
 	
 ];
 
