@@ -18,6 +18,7 @@ let addresses = [
 	"creativecommons.org:2087#11",
 	"go.inmobi.com:2096#12",
 	"creativecommons.org:2096#13",
+	"speedtest.net:443#14"
 	
 ];
 
