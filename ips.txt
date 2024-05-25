@@ -20,6 +20,10 @@ holyfuck.xcdi.workers.dev# 🇫🇮 -19
 ifuckyou.underwater.workers.dev:8443# 🇫🇮 -20
 wefuckyou.underwater.workers.dev:2053# 🇫🇮 -21
 ya-abalfazzzzz.pages.dev:2096# 🇫🇮 -22
+193.227.99.233:8443# SV
+104.21.9.36:2096# SV
+104.16.233.226:443# SV
+108.162.192.198:2096# SV
 172.67.164.37#✡️ TSA -1
 104.21.216.26:443#✡️ TSA -2
 172.67.192.211:8443#✡️ TSA -3
